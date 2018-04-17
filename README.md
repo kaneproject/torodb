@@ -1,6 +1,6 @@
 # ToroDB
 
-ToroDB is an open source, document-oriented, JSON database that runs on top of PostgreSQL. JSON documents are stored relationally, not as a blob/jsonb. This leads to significant storage and I/O savings. It speaks natively the MongoDB protocol, meaning that it can be used with any mongo-compatible client.
+ToroDB es an open source, document-oriented, JSON database that runs on top of PostgreSQL. JSON documents are stored relationally, not as a blob/jsonb. This leads to significant storage and I/O savings. It speaks natively the MongoDB protocol, meaning that it can be used with any mongo-compatible client.
 
 ToroDB follows a RERO (Release Early, Release Often) policy. Current version is considered a "developer preview" and hence is not suitable for production use. However, any feedback, contributions, help and/or patches are very welcome. Please join the [torodb-dev][8] mailing list for further discussion.
 
